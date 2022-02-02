@@ -364,3 +364,4 @@ Then, lastly:
     },
     ```
 
+I will look to push constant updates to this along with putting out other useful scripts I feel others may like on my githubbso be sure to drop a follow if you enjoy.
