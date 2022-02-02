@@ -1,5 +1,7 @@
 # WIP
 
+I will continue to push updates to this along with putting out other useful scripts I feel others may like here on my GitHub so be sure to drop a follow if you enjoy.
+
 # A Mechanic Job for QBCore Framework
 Features :
 - Allows mechanics or a set job (configurable in Config file) to install vehichle upgrades as usable items. 
@@ -363,5 +365,3 @@ Then, lastly:
         ["blipsprite"] = 402
     },
     ```
-
-I will look to push constant updates to this along with putting out other useful scripts I feel others may like on my githubbso be sure to drop a follow if you enjoy.
